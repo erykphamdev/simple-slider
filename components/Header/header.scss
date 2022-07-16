@@ -1,0 +1,13 @@
+.Header {
+   display: flex;
+   justify-content: center;
+   margin: 70px 0 50px;
+   &__slash {
+      font-size: 30px;
+      font-weight: bold;
+      color: rgb(59, 190, 216);
+   }
+   &__heading {
+      color: var(--dark-salmon);
+   }
+}
